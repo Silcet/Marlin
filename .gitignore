@@ -143,3 +143,5 @@ cmake-build-*
 
 # Sublime Text
 *.sublime-*
+
+*.fuse_*
