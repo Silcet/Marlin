@@ -140,3 +140,6 @@ CMakeListsPrivate.txt
 
 #CLion
 cmake-build-*
+
+# Sublime Text
+*.sublime-*
